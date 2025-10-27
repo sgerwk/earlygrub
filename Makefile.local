@@ -1,0 +1,8 @@
+# find UUIDs in /dev/disk/by-uuid/
+
+# UUID of the EFI partition
+# EFI-UUID=
+
+# UUID of the partition where the regular configuration file grub.cfg is
+# CFG-UUID=
+

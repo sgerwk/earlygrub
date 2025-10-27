@@ -1,0 +1,10 @@
+
+search.fs_uuid CFG-UUID root
+set prefix=($root)/boot/grub
+
+set gfxmode=800x600
+terminal_output gfxterm
+loadfont /usr/share/grub/ter-u16b.pf2
+
+configfile /boot/grub/grub.cfg
+

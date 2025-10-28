@@ -11,7 +11,7 @@ run
 ---
 
 set the UUID of the EFI partition and the partition that contains the actual
-configuration file grub.cfg in the Makefile
+configuration file grub.cfg in Makefile.local
 
 find UUIDs from /dev/disk/by-uuid
 

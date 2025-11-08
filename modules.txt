@@ -5,7 +5,6 @@ chain
 configfile
 echo
 efifwsetup
-efinet
 ext2
 fat
 font
